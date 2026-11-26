@@ -1,8 +1,5 @@
-:HL["/twig/_next/static/chunks/1114zcs250i2i.css","style"]
-:HL["/twig/_next/static/media/01d917b2efda642a-s.p.0y1w0k24nk0rl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/twig/_next/static/media/3383ca8b946b84c9-s.p.3o02-8iknf6dl.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/twig/_next/static/media/9d9d8fde33b299ed-s.p.1bk8_xp319hr4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/twig/_next/static/media/c50b0495a1ff0f08-s.p.2sla2yow9-9p_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/twig/_next/static/chunks/05_dwbux9p7zj.css","style"]
+:HL["/twig/_next/static/chunks/1we08p7p3-m2-.css","style"]
+:HC["/",""]
+:HL["/twig/_next/static/chunks/0b58kiktkn6u2.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"Y2IJMYw-Mg3R_oiOoPCcn","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"V7y_7cV4BhIQbQS_yikAv","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
